@@ -55,4 +55,4 @@ diccionario = {
 }
 
 # para mostrar el valor se accede a la clave
-print(diccionario[nombre])
+print(diccionario["nombre"])
