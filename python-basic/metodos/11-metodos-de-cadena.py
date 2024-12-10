@@ -34,6 +34,15 @@ print(retorno) # Imprime 3 (type) --> int
 ########################################################
 
 ########################################################
+""" Index --> Este metodo de cadena busca la posicion de la subcadena en la cadeba
+es parecido a find, pero no no encuentra el valor, retirna error """
+cadena_index = "hola mor"
+cadena_buscar_index = "o"
+retorno_index = cadena_index.index(cadena_buscar_index)
+print(f" Ejemplo index {retorno_index}")
+########################################################
+
+########################################################
 """ Isnumeric - Nos retorna True, si los caracteres solo son numericos """
 # Por solo un caracter que sea del alfabeto devuelve false o si tiene un espacio.
 cadena = "hola1"

@@ -3,7 +3,7 @@
 Son datos que a dentro tienen datos simples o compuestos
 lista =  ["Andres","Cepeda",28,True,1.80]
 tupla = ("Andres","Cepeda",28,True,1.80)
-conjusto = {"Andres","Cepeda",28,True,1.80}
+conjusto = {"Andres","Cepeda",28,True,1.80} -- Set
 """
 # Ejemplo de datos compuestos
 """ Lista = Mutable, permite ser modificada """
