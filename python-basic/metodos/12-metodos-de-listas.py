@@ -74,4 +74,3 @@ print(f"Ejemplo Index --> {valor_index}") # Imprime el indice del valor encontra
 # Warnig --> Si no encuentra el valor retorna valor.
 #############################
 
-set("arroz","lente","papa")
